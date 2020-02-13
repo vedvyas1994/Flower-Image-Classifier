@@ -42,8 +42,8 @@ This script loads the model from saved checkpoint, after which it pre-processes 
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
-- [PyTorch] (https://pytorch.org/docs/stable/index.html)
+- [PyTorch](https://pytorch.org/docs/stable/index.html)
 - [NumPy](http://www.numpy.org/)
-- [PIL.Image] (https://pillow.readthedocs.io/en/stable/reference/Image.html)
-- [Argument Parser] (https://docs.python.org/3/library/argparse.html)
+- [PIL.Image](https://pillow.readthedocs.io/en/stable/reference/Image.html)
+- [Argument Parser](https://docs.python.org/3/library/argparse.html)
 
